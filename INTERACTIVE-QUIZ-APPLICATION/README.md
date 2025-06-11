@@ -6,15 +6,15 @@
 
 **Company**: CODETECH IT SOLUTIONS  
 
-**Name**  : SHYAM KUMAR V 
+**Name**  : M SHALINI PRISILLA
 
-**Id**: CT08EOR 
+**Id**: CT04DF2640
 
 **Domain**: FRONTEND WEB DEVELOPMENT   
 
-**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
+**Batch Duration**: June 2nd to July 2nd, 2025 
 
-**Mentor Name**: NEELA SANTHOSH
+**Mentor Name**: NEELA SANTHOSH 
 --- 
 
 
